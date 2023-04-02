@@ -1,7 +1,5 @@
 
-p{
-color : pomerose; 
-}
+
 
 h1{
     background-color: rgb(127, 165, 255);
@@ -12,4 +10,9 @@ color: rgb(226, 226, 111);
 background-color: rgb(161, 70, 246); 
 
 font-size: xx-large;
+}
+
+.prf-21{
+
+    background-color:rgb(195, 93, 93);
 }
