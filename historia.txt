@@ -9,3 +9,5 @@ entre otras cosas alimentar a los gatos y preparar el cafe
 para fijar una mentalidad para todas sus activiadades diarias
 la idea es hacer cambios chicos y poderosos de mentalidad y de habitos
 version 2.0
+esta es la modificacion al archivo desde la rama
+cabecera
